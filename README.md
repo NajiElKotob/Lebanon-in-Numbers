@@ -18,6 +18,7 @@
 * [The World Factbook (CIA)](https://www.cia.gov/library/publications/the-world-factbook/geos/le.html) - cia.gov
 * [Wikipedia (Lebanon)](https://en.wikipedia.org/wiki/Lebanon) - wikiepedia.org
 * [Worldometers](https://www.worldometers.info/world-population/lebanon-population/) - worldometers.info
+* [Liban Data](https://www.libandata.org/) - libandata.org
 
 
 ## Indicators
