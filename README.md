@@ -13,7 +13,6 @@
 * [International Monetary Fund (IMF)](https://www.imf.org/en/Countries/LBN) - imf.org
 * [The World Bank](https://data.worldbank.org/country/lebanon) - worldbank.org
 * [World Health Organization](https://www.who.int/countries/lbn/en/) - who.int
-
 * [knoema](https://knoema.com/atlas/Lebanon) - knoema
 * [Index Mundi](https://www.indexmundi.com/facts/lebanon) - indexmundi.com
 * [The World Factbook (CIA)](https://www.cia.gov/library/publications/the-world-factbook/geos/le.html) - cia.gov
