@@ -17,3 +17,5 @@
 * [Corruption Perceptions Index](https://www.transparency.org/country/LBN) - Transparency International
 
 
+## Knowledge and Analysis
+* [Finance 4 Lebanon](https://finance4lebanon.com/) - The NERDS
