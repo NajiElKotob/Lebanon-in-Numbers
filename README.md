@@ -26,3 +26,4 @@
 
 ## Knowledge and Analysis
 * [Finance 4 Lebanon (The NERDS)](https://finance4lebanon.com/) - finance4lebanon.com
+  * [The NERDS (YouTube)](https://www.youtube.com/channel/UCNqznfLE0nEkRhfiGRd0R9g)
