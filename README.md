@@ -25,6 +25,7 @@
 * [Wikipedia (Lebanon)](https://en.wikipedia.org/wiki/Lebanon) - wikiepedia.org
 * [Worldometers](https://www.worldometers.info/world-population/lebanon-population/) - worldometers.info
 * [Liban Data](https://www.libandata.org/) - libandata.org
+* [Leb Data](https://www.lebdata.com/) - lebdata.com
 
 ## Indicators
 * [Corruption Perceptions Index](https://www.transparency.org/country/LBN) - transparency.org
