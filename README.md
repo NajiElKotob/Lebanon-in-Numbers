@@ -39,3 +39,4 @@
 * [Finding a way out of Lebanon’s crisis](https://lebanoneconomics.net/) - prepared by Alia Moubayed and Gerard Zouein
 * [Finance 4 Lebanon (The NERDS)](https://finance4lebanon.com/) - finance4lebanon.com
   * [The NERDS (YouTube)](https://www.youtube.com/channel/UCNqznfLE0nEkRhfiGRd0R9g)
+* [Lollar](https://www.urbandictionary.com/define.php?term=Lollar) - urbandictionary.com
