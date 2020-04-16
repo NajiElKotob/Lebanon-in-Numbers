@@ -22,6 +22,7 @@
 * [HXD](https://data.humdata.org/group/lbn) - humdata.org
 * [knoema](https://knoema.com/atlas/Lebanon) - knoema.com
 * [Index Mundi](https://www.indexmundi.com/facts/lebanon) - indexmundi.com
+* [Statistics & Facts](https://www.statista.com/topics/5178/lebanon/) - statista.com
 * [The World Factbook (CIA)](https://www.cia.gov/library/publications/the-world-factbook/geos/le.html) - cia.gov
 * [Wikipedia (Lebanon)](https://en.wikipedia.org/wiki/Lebanon) - wikiepedia.org
 * [Worldometers](https://www.worldometers.info/world-population/lebanon-population/) - worldometers.info
