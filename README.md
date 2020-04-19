@@ -31,6 +31,7 @@
 ### Local
 * [Liban Data](https://www.libandata.org/) - libandata.org
 * [Leb Data](https://www.lebdata.com/) - lebdata.com
+* [S.A.L. ش . م . ل](https://shinmimlam.com/visual) - shinmimlam.com
 
 ## Indicators
 * [Corruption Perceptions Index](https://www.transparency.org/country/LBN) - transparency.org
