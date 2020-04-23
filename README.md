@@ -5,6 +5,9 @@
 
 {Work in Process, Stay tuned}
 
+-----
+* [Lebanon - Contemporary and Modern Lebanon](https://github.com/NajiElKotob/Lebanon/blob/master/README.md) - Scattered Ideas 
+-----
 
 ## Public Sector
 * [Administration of Statistics (CAS)](http://www.cas.gov.lb/) - cas.gov.lb  
