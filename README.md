@@ -22,6 +22,9 @@
 * [International Monetary Fund (IMF)](https://www.imf.org/en/Countries/LBN) - imf.org
 * [The World Bank](https://data.worldbank.org/country/lebanon) - worldbank.org
 * [World Health Organization](https://www.who.int/countries/lbn/en/) - who.int
+* [Cost of Living in Lebanon](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Lebanon) - numbeo.com
+* [The Henley Passport Index](https://www.henleypassportindex.com/passport) - henleypassportindex.com
+* [WJP Rule of Law Index](https://www.worldjusticeproject.org/rule-of-law-index/) - worldjusticeproject.org
 * [HXD](https://data.humdata.org/group/lbn) - humdata.org
 * [knoema](https://knoema.com/atlas/Lebanon) - knoema.com
 * [Index Mundi](https://www.indexmundi.com/facts/lebanon) - indexmundi.com
@@ -50,7 +53,7 @@
 
 
 ## Knowledge and Analysis
-* [Grand Theft Lebanon](https://synaps.network/post/lebanon-finance-economy-ponzi-bankrupt) - synaps.network
+* [Gran d Theft Lebanon](https://synaps.network/post/lebanon-finance-economy-ponzi-bankrupt) - synaps.network
 * [Finding a way out of Lebanon’s crisis](https://lebanoneconomics.net/) - prepared by Alia Moubayed and Gerard Zouein
 * [Finance 4 Lebanon (The NERDS)](https://finance4lebanon.com/) - finance4lebanon.com
   * [The NERDS (YouTube)](https://www.youtube.com/channel/UCNqznfLE0nEkRhfiGRd0R9g)
