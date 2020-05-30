@@ -34,12 +34,6 @@
 * [Worldometers](https://www.worldometers.info/world-population/lebanon-population/) - worldometers.info
 * [Wikipedia (Arabic)](https://ar.wikipedia.org/wiki/%D9%84%D8%A8%D9%86%D8%A7%D9%86) - ar.wikipedia.org
 
-#### Health
-
-##### Cancer
-* [National Cancer Registry (NCR)](https://www.moph.gov.lb/en/Pages/8/19526/national-cancer-registry) - moph.gov.lb
-* [CancerIndex](http://www.cancerindex.org/Lebanon) - cancerindex.org
-
 ### Local
 * [Open Data Lebanon](https://opendatalebanon.org/) - opendatalebanon.org
 * [Liban Data](https://www.libandata.org/) - libandata.org
@@ -48,9 +42,17 @@
 * [Ellira](https://ellira.org/ar/budget) - ellira.org
 * [Gherbal](http://elgherbal.org/) - elgherbal.org
 
+
 ## Indicators
 * [Corruption Perceptions Index](https://www.transparency.org/country/LBN) - transparency.org
 
+## Health
+### Cancer
+* [National Cancer Registry (NCR)](https://www.moph.gov.lb/en/Pages/8/19526/national-cancer-registry) - moph.gov.lb
+* [CancerIndex](http://www.cancerindex.org/Lebanon) - cancerindex.org
+
+## Gold and Silver
+* [Gold Price in USD](https://www.goldbroker.com/charts/gold-price/usd) - goldbroker.com
 
 ## Knowledge and Analysis
 * [Gran d Theft Lebanon](https://synaps.network/post/lebanon-finance-economy-ponzi-bankrupt) - synaps.network
