@@ -55,6 +55,7 @@
 * [Gold Price in USD](https://www.goldbroker.com/charts/gold-price/usd) - goldbroker.com
 
 ## Knowledge and Analysis
+* [حوار مع الصحافي البير كوستانيان](https://www.instagram.com/p/CCl9mGAnyec/) (@AlbertKostanian and @Jad_Ghosn, 14 July 2020)
 * [Gran d Theft Lebanon](https://synaps.network/post/lebanon-finance-economy-ponzi-bankrupt) - synaps.network
 * [Finding a way out of Lebanon’s crisis](https://lebanoneconomics.net/) - prepared by Alia Moubayed and Gerard Zouein
 * [Finance 4 Lebanon (The NERDS)](https://finance4lebanon.com/) - finance4lebanon.com
