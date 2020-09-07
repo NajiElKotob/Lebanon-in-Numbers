@@ -42,7 +42,7 @@
 * [Ellira](https://ellira.org/ar/budget) - ellira.org
 * [Gherbal](http://elgherbal.org/) - elgherbal.org
 * [Lebanese Banks Real Estate Map](https://lebanonbanks.netlify.app/en/) - This map identifies known real estate holdings of a number of major banks in Lebanon, based on 2,224 properties listed for sale on each of their websites.
-
+* [Localiban](https://www.localiban.org) - localiban.org
 
 ## Indicators
 * [Corruption Perceptions Index](https://www.transparency.org/country/LBN) - transparency.org
