@@ -35,6 +35,7 @@
 * [Wikipedia (Arabic)](https://ar.wikipedia.org/wiki/%D9%84%D8%A8%D9%86%D8%A7%D9%86) - ar.wikipedia.org
 
 ### Local
+* [IMPACT](https://impact.cib.gov.lb) - impact.cib.gov.lb
 * [Open Data Lebanon](https://opendatalebanon.org/) - opendatalebanon.org
 * [Liban Data](https://www.libandata.org/) - libandata.org
 * [Leb Data](https://www.lebdata.com/) - lebdata.com
