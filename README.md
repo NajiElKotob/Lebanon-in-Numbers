@@ -10,6 +10,10 @@
 -----
 
 ## Public Sector
+* [Institut des Finances Basil Fuleihan](http://www.institutdesfinances.gov.lb) - institutdesfinances.gov.lb
+   * [Data](http://www.institutdesfinances.gov.lb/data/) 
+      * [Lebanon Citizen Budget](http://www.institutdesfinances.gov.lb/data/lebanon-citizen-budget/) - Power your brain with the Lebanon Citizen Budget – an initiative of the Institut des Finances Basil Fuleihan and the Budget Directorate at the Directorate General of Finance that aims at improving budget transparency and accessibility.
+      * [MENA Governance Data](http://www.institutdesfinances.gov.lb/data/mena-governance-data-2/) - The World Bank Worldwide Governance Indicators (WGI) positions the MENA region as one of the poorest performing regions across the world in terms of governance, ranking consistently lower than East Asia & Pacific, Europe & Central Asia, and Latin America & Caribbean.
 * [IMPACT](https://impact.cib.gov.lb) - impact.cib.gov.lb
 * [Administration of Statistics (CAS)](http://www.cas.gov.lb/) - cas.gov.lb  
 * [Customs Administration (Trade Statistics)](http://www.customs.gov.lb/Trade_Statistics/Monthly/Monthly_Statistics.aspx) - customs.gov.lb
