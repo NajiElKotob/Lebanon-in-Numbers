@@ -51,6 +51,7 @@
 
 ## Indicators
 * [E-Government Development Index (EGDI)](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/94-Lebanon) - publicadministration.un.org
+* [Ease of Doing Business (EoDB)](https://www.doingbusiness.org/en/data/exploreeconomies/lebanon) - doingbusiness.org (The World Bank)
 * [Corruption Perceptions Index (CPI)](https://www.transparency.org/country/LBN) - transparency.org
 
 ## Health
