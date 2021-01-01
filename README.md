@@ -50,7 +50,8 @@
 * [Localiban](https://www.localiban.org) - localiban.org
 
 ## Indicators
-* [Corruption Perceptions Index](https://www.transparency.org/country/LBN) - transparency.org
+* [E-Government Development Index (EGDI)](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/94-Lebanon) - publicadministration.un.org
+* [Corruption Perceptions Index (CPI)](https://www.transparency.org/country/LBN) - transparency.org
 
 ## Health
 ### Cancer
