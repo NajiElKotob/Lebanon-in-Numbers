@@ -38,6 +38,7 @@
 * [Worldometers](https://www.worldometers.info/world-population/lebanon-population/) - worldometers.info
 * [Wikipedia (Arabic)](https://ar.wikipedia.org/wiki/%D9%84%D8%A8%D9%86%D8%A7%D9%86) - ar.wikipedia.org
 * [Country Code](https://countrycode.org/lebanon) countrycode.org
+* [Beirut Recovery Map](https://beirutrecovery.org/) - beirutrecovery.org
 
 ### Local
 * [Open Data Lebanon](https://opendatalebanon.org/) - opendatalebanon.org
