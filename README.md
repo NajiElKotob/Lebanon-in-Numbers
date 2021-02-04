@@ -50,7 +50,8 @@
 * [Gherbal](http://elgherbal.org/) - elgherbal.org
 * [Lebanese Banks Real Estate Map](https://lebanonbanks.netlify.app/en/) - This map identifies known real estate holdings of a number of major banks in Lebanon, based on 2,224 properties listed for sale on each of their websites.
 * [Localiban](https://www.localiban.org) - localiban.org
-* [Information International (الدولية للمعلومات)](https://monthlymagazine.com/) - monthlymagazine.com 
+* [Information International (الدولية للمعلومات)](https://monthlymagazine.com/) - monthlymagazine.com
+* [Lebanese Fuel Prices (IPT)](https://www.iptgroup.com.lb/ipt/en/our-stations/fuel-prices) - iptgroup.com.lb
 
 ## Indicators
 * [E-Government Development Index (EGDI)](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/94-Lebanon) - publicadministration.un.org
