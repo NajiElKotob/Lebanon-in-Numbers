@@ -77,7 +77,7 @@
 * [Finance 4 Lebanon (The NERDS)](https://finance4lebanon.com/) - finance4lebanon.com
   * [The NERDS (YouTube)](https://www.youtube.com/channel/UCNqznfLE0nEkRhfiGRd0R9g)
 * [Lollar](https://www.urbandictionary.com/define.php?term=Lollar) - urbandictionary.com
-
+* [ارقام لافتة لبعض نتائج الانهيار في لبنان](https://www.youtube.com/watch?v=K0sScKB_RsQ) - Jad Ghosn
 
 -----
 * [Lebanon - Contemporary and Modern Lebanon](https://github.com/NajiElKotob/Lebanon/blob/master/README.md) - Scattered Ideas 
