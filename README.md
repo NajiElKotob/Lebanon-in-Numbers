@@ -52,13 +52,15 @@
 * [Localiban](https://www.localiban.org) - localiban.org
 * [Information International (الدولية للمعلومات)](https://monthlymagazine.com/) - monthlymagazine.com
 * [Lebanese Fuel Prices (IPT)](https://www.iptgroup.com.lb/ipt/en/our-stations/fuel-prices) - iptgroup.com.lb
+* Naji El Kotob (Kaggle)
+  * [Hospitals and Beds in Lebanon](https://www.kaggle.com/najielkotob/hospitals-and-beds-in-lebanon) 
+
 
 ## Indicators
 * [E-Government Development Index (EGDI)](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/94-Lebanon) - publicadministration.un.org
 * [Ease of Doing Business (EoDB)](https://www.doingbusiness.org/en/data/exploreeconomies/lebanon) - doingbusiness.org (The World Bank)
 * [Corruption Perceptions Index (CPI)](https://www.transparency.org/country/LBN) - transparency.org
 * [MSCI](https://www.msci.com/search?keywords=lebanon) - MSCI's ACWI is composed of 2,995 constituents, 11 sectors, and is the industry’s accepted gauge of global stock market activity. It provides a seamless, modern and fully integrated view across all sources of equity returns in 50 developed and emerging markets.
-
 
 
 ## Health
