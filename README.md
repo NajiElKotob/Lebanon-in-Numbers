@@ -42,6 +42,7 @@
 * [Global NO2 monitor](https://labo.obs-mip.fr/multitemp/global-no2-monitor/)
 
 ### Local
+* [Open Spatial Data](https://help.redcross.org.lb/pages/data) - Lebanese Red Cross
 * [Open Data Lebanon](https://opendatalebanon.org/) - opendatalebanon.org
 * [Liban Data](https://www.libandata.org/) - libandata.org
 * [Leb Data](https://www.lebdata.com/) - lebdata.com
