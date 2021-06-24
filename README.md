@@ -23,6 +23,7 @@
 
 ## Open Data Platform
 ### International
+* [Moody's Analytics](https://www.economy.com/lebanon/indicators) - economy.com
 * [International Monetary Fund (IMF)](https://www.imf.org/en/Countries/LBN) - imf.org
 * [The World Bank](https://data.worldbank.org/country/lebanon) - worldbank.org
 * [World Health Organization](https://www.who.int/countries/lbn/en/) - who.int
