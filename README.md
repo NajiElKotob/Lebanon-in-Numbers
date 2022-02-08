@@ -54,6 +54,7 @@
 * [Localiban](https://www.localiban.org) - localiban.org
 * [Information International (الدولية للمعلومات)](https://monthlymagazine.com/) - monthlymagazine.com
 * [Lebanese Fuel Prices (IPT)](https://www.iptgroup.com.lb/ipt/en/our-stations/fuel-prices) - iptgroup.com.lb
+* [Mini Weekly Basket](http://www.economy.gov.lb/en/services/center-for-pricing-policies/mini---basket-weekly-) - economy.gov.lb
 * Naji El Kotob (Kaggle)
   * [Hospitals and Beds in Lebanon](https://www.kaggle.com/najielkotob/hospitals-and-beds-in-lebanon) 
 
