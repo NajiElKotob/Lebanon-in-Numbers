@@ -57,6 +57,7 @@
 * [Mini Weekly Basket](http://www.economy.gov.lb/en/services/center-for-pricing-policies/mini---basket-weekly-) - economy.gov.lb
 * Naji El Kotob (Kaggle)
   * [Hospitals and Beds in Lebanon](https://www.kaggle.com/najielkotob/hospitals-and-beds-in-lebanon) 
+  * [Lebanese Customs (Private Trade) 2012 - 2021](https://www.kaggle.com/najielkotob/lebanese-customs-private-trade)
 
 
 ## Indicators
