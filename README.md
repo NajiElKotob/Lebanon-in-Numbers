@@ -72,6 +72,9 @@
 * [National Cancer Registry (NCR)](https://www.moph.gov.lb/en/Pages/8/19526/national-cancer-registry) - moph.gov.lb
 * [CancerIndex](http://www.cancerindex.org/Lebanon) - cancerindex.org
 
+## WFP
+* [Hunger Map](https://hungermap.wfp.org/) - wfp.org
+
 ## Gold and Silver
 * [Gold Price in USD](https://www.goldbroker.com/charts/gold-price/usd) - goldbroker.com
 
